@@ -23,5 +23,6 @@ int main ()
 	printf ("Hello World");
 	printf ("\nanother print line");
 	printf ("\nHere is another line. Github has power!!");
+	printf ("\nNow I also have a .gitignore file");
 	return 0;
 }

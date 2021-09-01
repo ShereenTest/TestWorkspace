@@ -22,6 +22,6 @@ int main ()
 {
 	printf ("Hello World");
 	printf ("\nanother print line");
-	printf ("\nHere is another line");
+	printf ("\nHere is another line. Github has power!!");
 	return 0;
 }

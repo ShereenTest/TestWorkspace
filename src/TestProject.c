@@ -21,5 +21,6 @@
 int main ()
 {
 	printf ("Hello World");
+	printf ("\nanother print line");
 	return 0;
 }
